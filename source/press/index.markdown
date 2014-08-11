@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "press"
-date: 2014-08-11 02:11
+title: "In The News"
+sidebar: false
 comments: true
 sharing: true
 footer: true
