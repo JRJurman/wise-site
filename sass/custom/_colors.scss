@@ -12,7 +12,7 @@ $text-color: $subtitle-color !default;
 $text-color-light: lighten($subtitle-color, 20) !default;
 
 //nav
-$nav-bg: lighten(#670409, 30);
+$nav-bg: lighten(#351819, 30);
 //$nav-bg-front: image-url('noise.png');
 $nav-bg-back: lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11);
 
