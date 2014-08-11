@@ -4,7 +4,7 @@
 
 url: http://JRJurman.github.io/wise-site
 title: West Irondequoit Supports Education
-subtitle: Gathering people, ideas and momentum to support West Irondequoit programs. 
+subtitle: Gathering people, ideas and momentum to support West Irondequoit school programs
 author: Jesse Jurman and Friends
 simple_search: https://www.google.com/search
 description: WISE (West Irondequoit Supports Education) is a forum for gathering people, ideas and momentum with the purpose of supporting West Irondequoit students, schools, and programs during the contingency budget.
@@ -71,7 +71,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
