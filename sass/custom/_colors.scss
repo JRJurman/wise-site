@@ -8,11 +8,11 @@ $page-bg: #002b36 !default;
 //header
 $header-bg: #002b36;
 $subtitle-color: lighten($header-bg, 58);
-$text-color: $subtitle-color !default;
+$text-color: #c2c799 !default;
 $text-color-light: lighten($subtitle-color, 20) !default;
 
 //nav
-$nav-bg: lighten(#2c2817, 30);
+//$nav-bg: lighten(#2c2817, 30);
 $nav-bg: lighten(#474539, 30);
 //$nav-bg-front: image-url('noise.png');
 $nav-bg-back: lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11);
