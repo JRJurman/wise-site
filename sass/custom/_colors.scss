@@ -20,7 +20,7 @@ $nav-bg-back: lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11);
 //sidebar
 $sidebar-bg: $nav-bg;
 $sidebar-link-color: saturate(#526f9a, 10);
-$sidebar-link-color-hover: darken(#7ab662, 9);
+$sidebar-link-color-hover: darken(#7ab662, 15);
 
 //footer
 $footer-bg: darken($nav-bg, 30);

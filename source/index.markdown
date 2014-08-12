@@ -20,4 +20,6 @@ They can inform you about upcoming meetings, mailing lists, and future events to
 
 ##Learn More
 
-Curious about our effort? WISE has several focus areas that we're planning to tackle. You can see the details for each area, and their progress on our <a href="/focus/">Focus Areas</a> page. 
+Curious about our effort? WISE has several focus areas that we're planning to tackle. You can see the details for each area, and their progress on our <a href="/focus/">Focus Areas</a> page.  
+  
+Still looking for more? WISE (and it's sister project <a href="https://www.facebook.com/groups/565181876935273/">I-Vote</a> have been the topic of several news articles. You can see a few of them on our <a href="/press/">In The News</a> page.
