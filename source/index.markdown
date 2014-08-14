@@ -8,6 +8,8 @@ footer: true
 ---
 
 WISE (West Irondequoit Supports Education) is a forum for gathering people, ideas and momentum with the purpose of supporting West Irondequoit students, schools, and programs during the contingency budget.    
+  
+This Website is a hub for all the events, news, and efforts under WISE.
 
 ##Join the discussion
 
