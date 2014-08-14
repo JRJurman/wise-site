@@ -19,6 +19,8 @@ Take a look at our <a href="https://www.facebook.com/groups/536204913172418/">Fa
 
 Want to get involved? Check out our <a href="/leads/">WISE Leads</a> page to get in contact with our leads! 
 They can inform you about upcoming meetings, mailing lists, and future events to help with the effort.    
+  
+Go to our <a href="/events/">Events Page</a> to see all the ongoing and upcoming events in support of WISE. These include fundraisers, informative talks, and benefits for our different efforts. Don't miss out! Stop by often to check for new events and updates.  
 
 ##Learn More
 
