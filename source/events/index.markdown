@@ -15,11 +15,11 @@ footer: true
   
 
 
-<a href="https://www.facebook.com/events/918199784872900/?ref=4">
-#Student Sit Down with Rich Funke</a>
-##August 14th
+<a href="https://www.facebook.com/events/1479729095608378">
+#Student Sit Down with Senator O'Brien</a>
+##August 20th
 
-"Mr. Rich Funke for State Senate is eager to meet with West Irondequoit student as they voice their concerns. This is another excellent opportunity to show town unity and to have students practice civic involvement."  
+"All West Irondequoit students are welcome to comment, listen and/or ask questions. Adults are welcome to participate; we will let students speak first."
   
 
 

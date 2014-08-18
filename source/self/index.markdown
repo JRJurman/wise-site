@@ -15,6 +15,6 @@ If any page has a bad link, incorrect information, or you just want to see more 
 
 ##Want to help?
 
-For those technically inclined, contact <a href="mailto:jrjurman@gmail.com">me</a>, and I can help you get to speed with how the site works, and how to push to the repository, as well as deploy from your local machine.  
+For those technically inclined, contact <a href="mailto:jrjurman@gmail.com">me</a>, and I get you up to speed with how the site works, and how to push to the repository, as well as deploy from your local machine.  
   
 Preferably, you'll want an understanding of Git, Markdown, HTML, and CSS... If you don't, I'd be more than glad to impart my knowledge to anybody interested in learning technologies!
