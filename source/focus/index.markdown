@@ -18,7 +18,7 @@ Other Pages: <a href="https://www.facebook.com/HelmerNatureCenter">Facebook Page
 "The mission of Helmer Nature Center is to utilize the natural world as a classroom in order to provide practical, integrated learning opportunities."
 
 <a href="http://www.gofundme.com/cyxabw">
-Progress: $405
+Progress: $605
 Goal: $10,000
 </a>
 
@@ -29,7 +29,7 @@ Other Pages: <a href="https://www.facebook.com/WICSDOutdoorED">Facebook Page</a>
 "Outdoor Ed has been a long-standing tradition for 6th graders in WICSD.  For two days in June, students have the opportunity to participate in classes to enrich their environmental understanding and to use their classroom skills in an outdoor setting."  
 
 <a href="http://www.gofundme.com/c94wdc">
-Progress: $10,785
+Progress: $10,985
 Goal: $20,000
 </a>
 
@@ -40,8 +40,8 @@ Other Pages: <a href="http://www.irondequoitallsportsboosters.com/home.html">Iro
 "The purpose of the Irondequoit All Sports Boosters, Inc. is to support and enhance the educational based interscholastic athletic experience for the student."
 
 <a href="http://www.irondequoitallsportsboosters.com/donate.html">
-Progress: $38,000
-by Sunday August 24th:
+Progress: $44,000
+by Tuesday, September 2nd:
 Goal 1: $48,000 for one modified team of each sport
 Goal 2: $95,000 to restore all teams like last year
 </a>
@@ -60,11 +60,11 @@ Lead: <a href="mailto:stevekit@Rochester.rr.com">Anne Kittleburger</a>
 ##<a name="Theater-Productions"></a>Theater Productions
 Lead: <a href="mailto:dawnsoufleris@yahoo.com">Dawn Soufleris</a> and <a href="jasoufleris@yahoo.com">Jim Soufleis</a>  
 Other Pages: <a href="http://www.gofundme.com/Keep-the-Arts-Alive-in-WI">GoFundMe Page</a>, <a href="https://www.facebook.com/WICSDPerformingArts">Facebook Page</a>
-  
+
 "... to support the educational experience of students involved in drama, music and musical theatre programs while attending school in the WICSD"  
 
 <a href="http://www.gofundme.com/Keep-the-Arts-Alive-in-WI">
-Progress: $4,030
+Progress: $4,475
 Goal: $10,000
 </a>
 
