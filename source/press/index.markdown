@@ -7,6 +7,12 @@ sharing: true
 footer: true
 ---
 
+<a href="http://www.whec.com/news/stories/S3548817.shtml?cat=565">
+#WHEC.com -- Modified sports program saved</a>
+##September 2, 2014
+
+"This amazing feat (in six weeks) is due to the hard work and dedication of the Irondequoit All Sports Booster Club, INC. hundreds of donations, as well as one significant donation today made by Mark's Pizzeria, that took us from 17 teams to 29 teams. " <a href="http://www.whec.com/news/stories/S3548817.shtml?cat=565">[Read More]</a>
+
 <a href="http://www.whec.com/news/stories/s3545740.shtml?cat=565">
 #WHEC.com -- Athletic Director optimistic about fundraising efforts</a>
 ##August 28, 2014

@@ -39,11 +39,9 @@ Other Pages: <a href="http://www.irondequoitallsportsboosters.com/home.html">Iro
 
 "The purpose of the Irondequoit All Sports Boosters, Inc. is to support and enhance the educational based interscholastic athletic experience for the student."
 
-<a href="http://www.irondequoitallsportsboosters.com/donate.html">
-Progress: $44,000
-by Tuesday, September 2nd:
-Goal 1: $48,000 for one modified team of each sport
-Goal 2: $95,000 to restore all teams like last year
+<a href="http://www.whec.com/news/stories/S3548817.shtml?cat=565">
+Progress: $95,000
+as of Tuesday, September 2nd (Goal reached, and all 29 teams restored!)
 </a>
 
 ##<a name="Teacher-Positions"></a>Teacher Positions / Training / Class Size
@@ -70,9 +68,14 @@ Goal: $10,000
 
 ##<a name="Field-Trips"></a>Field Trips
 Lead: <a href="mailto:mohyde@gmail.com">Maureen Hyde</a>  
-Other Pages: <a href="http://wisefieldtrips.blogspot.com/">BlogSpot Page</a>
+Other Pages: <a href="http://wisefieldtrips.blogspot.com/">BlogSpot Page</a> <a href="http://www.gofundme.com/d3mwgs">GoFundMe Page</a>
 
+"WE are raising money so that our Kindergarten - 5th graders can continue to have field trips for the 2014/2015 school year."
 
+Progress: $2,000
+<a href="http://www.gofundme.com/d3mwgs">
+Goal: $8,000
+</a>
 
 
 ##<a name="Grants"></a>Grants / GoFundMe / Major Funding
