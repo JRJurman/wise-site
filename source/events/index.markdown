@@ -7,6 +7,22 @@ sharing: true
 footer: true
 ---
 
+<a href="https://www.tastefullysimple.com/party/3759531/2f1b2114-2cac-4137-9cfa-71917b74a5b7">
+#Tastefully Simple Fundraiser
+</a>
+##September 29th - October 23rd
+
+"Shopping online through this fundraiser not only gives you the chance to try the delicious products from the all new Fall & Winter catalog, but help raise money for the Helmer Nature Center!"
+<a href="https://www.facebook.com/events/514438188693711/">Facebook Page</a>
+  
+
+<a href="http://wisefieldtrips.blogspot.com/2014/08/the-field-trip-committee-met-and-had.html">
+#Fundraising Field Trips for Kids : Bottle & Can Drive</a>
+##August 21st - December 20th
+
+"Ongoing fundraiser to help save field trips for students in West Irondequoit. Donate your bottles & cans today!"
+<a href="https://www.facebook.com/events/293997344135942/">Facebook Page</a>
+
 <a href="https://www.facebook.com/events/278955502309269/">
 #Bottle / Can Drop Off Event</a>
 ##Saturday, September 6th
@@ -19,14 +35,6 @@ footer: true
 ##Sunday September 14th
 
 "20% of your order will directly go to fun West Irondequoit Field Trips"  
-
-
-<a href="http://wisefieldtrips.blogspot.com/2014/08/the-field-trip-committee-met-and-had.html">
-#Fundraising Field Trips for Kids : Bottle & Can Drive</a>
-##August 21st - December 20th
-
-"Ongoing fundraiser to help save field trips for students in West Irondequoit. Donate your bottles & cans today!"
-<a href="https://www.facebook.com/events/293997344135942/">Facebook Page</a>
 
 
 <a href="https://www.facebook.com/events/356813901110308/">
