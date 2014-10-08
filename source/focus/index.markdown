@@ -9,7 +9,7 @@ footer: true
 
 Here is the most up-to-date information regarding our efforts. Please find a cause (or 2 or 3) to support and contact the Lead Contact. Together we can do anything!  
 
-Numbers are up-to-date as of 8/14/2014
+Numbers are up-to-date as of 10/1/2014
 
 ##<a name="Helmer-Nature-Center"></a>Helmer Nature Center
 Lead: <a href="mailto:alex.croll@gmail.com">Alex Croll</a>  
