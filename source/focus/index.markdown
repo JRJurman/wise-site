@@ -72,7 +72,7 @@ Other Pages: <a href="http://wisefieldtrips.blogspot.com/">BlogSpot Page</a> <a 
 
 "WE are raising money so that our Kindergarten - 5th graders can continue to have field trips for the 2014/2015 school year."
 
-Progress: $2,000
+Progress: $4,500
 <a href="http://www.gofundme.com/d3mwgs">
 Goal: $8,000
 </a>
